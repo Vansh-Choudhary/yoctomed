@@ -16,7 +16,7 @@ const categories = [
   {
     id: 3,
     name: 'Healthcare Devices',
-    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/9cc9a28ea4513009966cae794114eefd.png?f=png?dim=360x0',
+    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/9cc9a28ea4513009966cae794114eefd.png',
     bgColor: 'bg-blue-50'
   },
   {
