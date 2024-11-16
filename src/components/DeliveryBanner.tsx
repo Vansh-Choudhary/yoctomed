@@ -9,8 +9,10 @@ interface DeliveryBannerProps {
 export default function DeliveryBanner({ address, onAddressChange }: DeliveryBannerProps) {
   return (
     <div className="mb-4">
-      <h1 className="text-2xl font-bold mb-2">Delivery in 8 minutes</h1>
-      <button 
+      <h1 className="text-2xl font-bold mb-2">
+        Delivery in <span className="text-blue-600">8 minutes</span>
+      </h1>
+      <button
         className="flex items-center text-gray-600 text-sm"
         onClick={() => {/* Handle address change */}}
       >
