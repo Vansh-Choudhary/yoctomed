@@ -15,7 +15,7 @@ const categories = [
   },
   {
     id: 3,
-    name: 'Healthcare Devices',
+    name: 'Skin care',
     image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/e4ca54bc1d1d3ed18253afcb2ca77870.png?f=png',
     bgColor: 'bg-blue-50'
   },
