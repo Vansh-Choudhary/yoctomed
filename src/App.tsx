@@ -6,7 +6,7 @@ import DeliveryBanner from './components/DeliveryBanner';
 import PromoBanner from './components/PromoBanner';
 
 function App() {
-  const [address, setAddress] = useState('LGF, B 85, B Block, East of Kailash, New Delhi');
+  const [address, setAddress] = useState('B 86, B Block, East of Kailash, New Delhi');
 
   return (
     <div className="min-h-screen bg-gray-50">
