@@ -10,7 +10,7 @@ const categories = [
   {
     id: 2,
     name: 'Diabetes Care',
-    image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400',
+    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/105ceca515ee30509f93309ae75306aa.png',
     bgColor: 'bg-blue-50'
   },
   {
