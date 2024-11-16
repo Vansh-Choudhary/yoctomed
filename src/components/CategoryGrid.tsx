@@ -4,7 +4,7 @@ const categories = [
   {
     id: 1,
     name: 'Prescribed Medicines',
-    image: 'https://img.freepik.com/free-photo/medicine-bottles-tablets-wooden-desk_1387-320.jpg?auto=format&fit=crop&q=80&w=400',
+    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f10917087a483040b557e4b18204312c.png',
     bgColor: 'bg-blue-50'
   },
   {
