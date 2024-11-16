@@ -10,7 +10,7 @@ const categories = [
   {
     id: 2,
     name: 'Diabetes Care',
-    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/105ceca515ee30509f93309ae75306aa.png',
+    image: 'https://cdn01.pharmeasy.in/dam/products_otc/N95684/sugar-free-gold-plus-pellet-500-nos-6.2-1716876931.jpg',
     bgColor: 'bg-blue-50'
   },
   {
