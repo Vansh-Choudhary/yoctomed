@@ -22,7 +22,7 @@ const categories = [
   {
     id: 4,
     name: 'Supplements',
-    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/dc96175686f135b5a22d1e57165d0246.png',
+    image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f6d6a89f8467353b911b6bd40ba2e323.png',
     bgColor: 'bg-blue-50'
   },
   {
