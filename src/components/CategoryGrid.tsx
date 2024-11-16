@@ -4,44 +4,44 @@ const categories = [
   {
     id: 1,
     name: 'Prescribed Medicines',
-    image: 'https://images.unsplash.com/photo-1587854692152-cbe660dbde88?auto=format&fit=crop&q=80&w=400',
+    image: 'https://img.freepik.com/free-photo/medicine-bottles-tablets-wooden-desk_1387-320.jpg?auto=format&fit=crop&q=80&w=400',
     bgColor: 'bg-blue-50'
   },
   {
     id: 2,
     name: 'Diabetes Care',
     image: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=400',
-    bgColor: 'bg-green-50'
+    bgColor: 'bg-blue-50'
   },
   {
     id: 3,
     name: 'Healthcare Devices',
     image: 'https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&q=80&w=400',
-    bgColor: 'bg-purple-50'
+    bgColor: 'bg-blue-50'
   },
   {
     id: 4,
     name: 'Supplements',
     image: 'https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&q=80&w=400',
-    bgColor: 'bg-red-50'
+    bgColor: 'bg-blue-50'
   },
   {
     id: 5,
     name: 'Ayurvedic',
     image: 'https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&q=80&w=400',
-    bgColor: 'bg-yellow-50'
+    bgColor: 'bg-blue-50'
   },
   {
     id: 6,
     name: 'Pain Relief',
     image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=400',
-    bgColor: 'bg-pink-50'
+    bgColor: 'bg-blue-50'
   },
   {
     id: 7,
     name: 'First Aid',
     image: 'https://images.unsplash.com/photo-1603398938378-e54eab446dde?auto=format&fit=crop&q=80&w=400',
-    bgColor: 'bg-red-50'
+    bgColor: 'bg-blue-50'
   },
   {
     id: 8,
