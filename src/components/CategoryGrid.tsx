@@ -16,7 +16,7 @@ const categories = [
   {
     id: 3,
     name: 'Healthcare Devices',
-    image: 'https://onemg.gumlet.io/4e4b7cd8-0885-42c2-8915-65b7355fc1d8.png',
+    image: 'https://onemg.gumlet.io/4e4b7cd8-0885-42c2-8915-65b7355fc1d8.png?format=auto',
     bgColor: 'bg-blue-50'
   },
   {
