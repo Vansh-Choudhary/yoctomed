@@ -3,7 +3,7 @@ import React from 'react';
 const categories = [
   {
     id: 1,
-    name: 'Prescribed Medicines',
+    name: 'Must haves',
     image: 'https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f10917087a483040b557e4b18204312c.png',
     bgColor: 'bg-blue-50'
   },
